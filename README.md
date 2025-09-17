@@ -46,7 +46,7 @@ hideturtle()
 
 Hides the turtle pointer so only the artwork is visible.
 
-![Description of Image](images/screenshot.png)
+![Description of Image](s2.png)
 
 
 ![Turtle Gaphics spectrum](spectrum.png)
